@@ -22,7 +22,7 @@ This project helped me understand how real-world systems are modeled using datab
 
 ## Author
 
-Laila Tarek
-Hana Tariq
-Abdallah Nizar
-Hazem Mohab
+- Laila Tarek
+- Hana Tariq
+- Abdallah Nizar
+- Hazem Mohab
